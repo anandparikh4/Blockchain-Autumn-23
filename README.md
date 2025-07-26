@@ -1,4 +1,4 @@
-Assignments from the Spring 2023 Theory and Applications of Blockchain course (CS61065) at IIT KGP
+Assignments from the Autumn 2023 Theory and Applications of Blockchain course (CS61065) at IIT KGP
 
 ## Group Members
 <pre><code>Anand Manojkumar Parikh (20CS10007)
